@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section presents lecture note topics from the second half of the
+  class.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -169,7 +171,7 @@ Cahan's powerpoints on "Strategic Investing in Community GIS"
 *   What solutions is Cahan proposing?
 *   Is financing information infrastructure the same as financing other infrastructure?
 *   What are I-teams?
-*   Remember to come to Bob Barr's talk: "E-Government and GIS: The British Experience" ([PDF - 3.1 MB]({{< baseurl >}}/resources/barrlec02dec06))
+*   Remember to come to Bob Barr's talk: "E-Government and GIS: The British Experience" ({{% resource_link 365d6d95-e630-f788-f5d4-f534ab2e0d95 "PDF - 3.1 MB" %}})
 
 Week 14
 -------
