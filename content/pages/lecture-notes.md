@@ -69,8 +69,8 @@ PSS Text, Chapter 13: "Visualizing the City"
 *   What's the purpose of these city models - compared with urban models discussed last time?
 *   What are the tradeoffs when focusing on 2D (with GIS tools) and 3D (with CAD tools)?
 *   How do the various cases differ in their approach, emphasis, technology?
-*   Take a look at Seth Teller's {{% resource_link "c0c96bc8-3da5-4d2c-ad2b-e50ff81e8a6e" "MIT City Scanning Project" %}}
-*   Here's another local effort using VRML and the Web: {{% resource_link "2298a30f-f3a5-4cc2-a03e-a71b289d6f3e" "MapJunction" %}}
+*   Take a look at Seth Teller's [MIT City Scanning Project](http://city.lcs.mit.edu/)
+*   Here's another local effort using VRML and the Web: [MapJunction](http://www.mapquest.com/maps?city=Junction&state=TX)
 *   The 'luminous table' effort in CDD and Goulding's sketch planning thesis last Spring are other recent examples exploring user interfaces to facilitate group interaction and computer-assistance in urban design?
 
 Raj Singh's MCP thesis and 'Sketch Planning with GIS' paper
